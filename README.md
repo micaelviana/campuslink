@@ -28,14 +28,10 @@ Back-end: Express.js, Swagger, Axios, Prisma, LlamaIndex e Docling.
 
 ![Gerenciamento de setores da universidade](./screenshots/setores.png)
 
-
-
 ### Resposta do Chat
 
-![](/home/micael/Downloads/resposta.png)
-
-
+![](./screenshots/resposta.png)
 
 ### Visualização de fonte da resposta
 
-![](/home/micael/Downloads/modal.png)
+![](./screenshots/modal.png)
